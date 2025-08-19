@@ -1,8 +1,21 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI-Based Resume Generator is a full-stack web application designed to help users create professional and tailored resumes effortlessly using Artificial Intelligence. The project is built with Spring Boot as the backend framework and React with Tailwind CSS as the frontend, ensuring both performance and modern UI design.
 
-Currently, two official plugins are available:
+Backend (Spring Boot): Handles resume data processing, request management, and integrates AI-driven logic for generating customized resume content.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Frontend (React + Tailwind CSS): Provides a clean, responsive, and user-friendly interface for users to input details and preview resumes in real time.
+
+AI Integration: Uses prompt-based AI to generate context-aware and role-specific resume sections (summary, experience, skills).
+
+Features:
+
+Dynamic resume creation with AI suggestions.
+
+Multiple templates for professional layouts.
+
+Secure backend for storing and processing user inputs.
+
+Real-time preview and download options.
+
+This project demonstrates end-to-end development skills, including backend API development, frontend design with responsive styling, and practical AI integration to solve a real-world problem of creating impactful resumes.
